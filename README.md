@@ -21,7 +21,9 @@ pip install -r requirements.txt
 
 ## Run the Streamlit app:
 2. streamlit run cad_predictor.py
+
 ----
+
 ##  Repository Structure
 cad-prediction-using-adaboost/
 ├─ cad_predictor.py
